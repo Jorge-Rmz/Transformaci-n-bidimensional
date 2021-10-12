@@ -1,2 +1,4 @@
 # Transformaci-n-bidimensional
-Transformación bidimensional con matrices
+##  Transformación bidimensional con matrices
+## Clase Figura
+#### 
