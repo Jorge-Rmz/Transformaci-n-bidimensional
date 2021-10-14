@@ -38,5 +38,18 @@
 ![FIGURA 11](https://user-images.githubusercontent.com/71052252/136890363-8948e673-88c3-472c-a462-f0622a979b4a.png)
 
 # Ejecución del programa
+## Figura original
+![FIGURA 12](https://user-images.githubusercontent.com/71052252/137363642-334c15c5-8346-4956-9f09-1edb7f9327fe.png)
 
+## Traslación
+#### Trasladamos desde la figura actual 413 en x, y 100 en y.
+![FIGURA 13](https://user-images.githubusercontent.com/71052252/137363649-63988b2c-e91b-4d3a-b289-57b7936fd651.png)
+
+## Escalamiento
+#### Escalamos la figura 0.4 en X, 0.4 en Y.
+![Figura 14](https://user-images.githubusercontent.com/71052252/137363651-bf813b52-a608-4676-85fc-777c5a102672.png)
+
+## Rotación 
+#### Rotación de la figura 20 grados
+![FIGURA 15](https://user-images.githubusercontent.com/71052252/137363655-e20c3324-1641-4ed4-a2dc-dccec2b81a2a.png)
 
