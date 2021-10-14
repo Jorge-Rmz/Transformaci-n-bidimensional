@@ -36,3 +36,7 @@
 
 #### En la función rotación se muestra las operaciones para rotar la figura, para realizar la rotación primero convertimos los grados a radianes, después se realizan las operaciones para calcular el valor de coseno, seno y seno negativo con respecto al ángulo a rotar; esos valores calculados se reemplazan en la matriz de rotación, para finalizar se realiza la multiplicación de las matrices y se realiza la traslación para que no se mueva del punto en x.
 ![FIGURA 11](https://user-images.githubusercontent.com/71052252/136890363-8948e673-88c3-472c-a462-f0622a979b4a.png)
+
+# Ejecución del programa
+
+
